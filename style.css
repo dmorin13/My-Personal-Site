@@ -171,8 +171,12 @@ h2{
 }
 
 
+#dark-mode-btn{
+  margin-right: 50%;
+  margin-left: 50%;
+  margin-bottom: 5%;
+  border-radius: 50%;
+  width:100px;
 
-
-
-
+}
 
