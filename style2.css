@@ -50,7 +50,7 @@ font-size:1.2em;
   padding-bottom: 5px;
   padding-top: 5px;
   margin:20px;
-  position: relative;
+  position: inherit;
   overflow: wrap;
   text-size-adjust:80%;
   }
