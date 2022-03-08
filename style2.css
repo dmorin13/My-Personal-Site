@@ -37,9 +37,7 @@ font-size:1.2em;
   color:green;
   margin:0%;
   font-size: 60px;
-  text-size-adjust:80%;
-  position: inherit;
-  overflow: wrap;
+  text-overflow: wrap;
   background-color: rgb(121, 63, 9);
   font-family: 'Playfair Display', serif;
   
