@@ -14,8 +14,12 @@ img{
 
 #header_image{
 
-  width:1000px;
-  height:350px;
+  background-size: contain;
+  display: inline-block ;
+   width:90%;
+    margin: auto;
+    padding:5%;
+    padding-bottom: 1%;
 }
 
 .green{
