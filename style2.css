@@ -43,6 +43,22 @@ font-size:1.2em;
   
 }
 
+@media all and (max-width:600px) {
+
+  #first_id {
+    text-align: center;
+    font-style: italic;
+    color:green;
+    margin:0%;
+    font-size: 10vh;
+    text-overflow: wrap;
+    background-color: rgb(121, 63, 9);
+    font-family: 'Playfair Display', serif;
+    
+  }
+
+}
+
 
 #together{
   border:10px dashed green;
